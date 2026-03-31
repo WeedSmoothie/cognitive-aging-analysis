@@ -60,5 +60,4 @@ How do structural brain changes relate to cognitive decline, and how can these f
 B.A. Psychology & Brain Science, Ewha Womans University  
 Research Assistant, Cognitive Aging Lab, Seoul National University  
 
-📧 [your email]  
-🔗 [LinkedIn / Portfolio]
+📧 hsookwon@ewhain.net
