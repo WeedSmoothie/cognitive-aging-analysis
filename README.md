@@ -31,17 +31,17 @@ How do structural brain changes relate to cognitive decline, and how can these f
 
 ## 📂 Project Structure
 
-├── notes/          # 공부 정리
+project_name/
+├── notes/          # Study notes (Notion → PDF)
 │   └── fMRI_GLM_notes.pdf
 │
-├── notebooks/      # Colab
+├── notebooks/      # Colab / analysis code
 │   └── fmri_glm_analysis.ipynb
 │
-├── docs/           
+├── docs/           # Optional summaries
 │   └── summary.md
 │
-└── README.md
-
+└── README.md       # Project overview
 ---
 
 ## 🛠️ Tools
